@@ -1,6 +1,18 @@
 %HW6
 %Walter Frank Lenoir
 
+%GB comments
+1a 95 no axis labels
+1b 95 no axis labels
+1c 95 no axis labels
+1d 95 no axis labels. 
+1e 95 no axis lables
+2a 95
+2b 95
+2c 95
+Overall: 95
+
+
 % Problem 1. Curve fitting. 
 %Walter Frank Lenoir
 
